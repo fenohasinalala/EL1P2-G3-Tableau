@@ -1,0 +1,52 @@
+#layoutSidenav_content{
+  padding: 0px !important;
+}
+
+
+
+#form1{
+  margin-bottom: 15px !important;
+  width: 210px;
+  position: relative;
+  display: flex;
+  float:right;
+
+}
+/* ----------------------------------------------------------------------------------- */
+
+.rdt_Table {
+  margin-bottom: 1rem;
+}
+.rdt_TableRow {
+  border: 0px !important;
+  height: 22.5px !important; 
+}
+.rdt_TableCol {
+  color: rgb(70, 69, 69);
+  background-color: rgb(240, 240, 240);
+  font-weight: bolder;
+  font-size: medium;
+  border-bottom: 3px solid lightgray !important;
+  border-top: 2px solid lightgray !important;
+  border-left: 0.5px solid lightgray !important; 
+  border-right: 0.5px solid lightgray !important;  
+}
+.rdt_TableCol_Sortable {
+}
+.rdt_TableCell {
+  border: 0.01mm solid lightgray !important; 
+  
+}
+.rdt_TableHeader {
+  background-color: transparent;  
+}
+.rdt_TableFooter {
+}
+.rdt_TableHead {
+}
+.rdt_TableHeadRow {
+  }
+.rdt_TableBody {
+}
+.rdt_ExpanderRow {
+}
